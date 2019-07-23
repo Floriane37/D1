@@ -134,6 +134,18 @@
             "guid": "tLATA}$2P<",
             "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A vous",
+                "de jouer"
+            ],
+            "flags": 0,
+            "guid": "qoiXh:3)Zs",
+            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "tags": []
         }
     ]
 }
