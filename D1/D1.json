@@ -170,6 +170,18 @@
             "guid": "O_f1HBVwP1",
             "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vie de",
+                "carabin"
+            ],
+            "flags": 0,
+            "guid": "o0}^LNhf[w",
+            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "tags": []
         }
     ]
 }
