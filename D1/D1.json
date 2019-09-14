@@ -52,14 +52,15 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 0,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1567423691034",
     "name": "D1",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "crowdanki_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -83,7 +84,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basique-e5e1c",
+            "name": "Basique",
             "req": [
                 [
                     0,
@@ -115,72 +116,108 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "bonne nuit",
-                "les petits"
+                "Une maladie polygénique a un gène muté nécessaire mais non suffisant pour occasionner la pathologie.",
+                "<div><b>FAUX</b>&nbsp;--&gt; Gène muté ni nécessaire ni suffisant</div>"
             ],
             "flags": 0,
-            "guid": "tLATA}$2P<",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "y5ogCtv$.D",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Allo",
-                "Moshi moshi"
+                "Il existe environ 8&nbsp;000 maladies génétiques.",
+                "<div><b>VRAI --&gt;</b>&nbsp;environ 1/50 personne est concernée (pas forcément malade)</div>"
             ],
             "flags": 0,
-            "guid": "n(v-7Oy7=0",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "nC0xeMzgzK",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Arigato",
-                "Merci"
+                "Une maladie génétique est une maladie congénitale.<br>",
+                "<b>FAUX</b>&nbsp;--&gt; L’âge de début peut être très variable (du fœtus au vieillard), et peut être acquise au cours de la vie comme pour les cancers."
             ],
             "flags": 0,
-            "guid": "G#U~M)#.Rq",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "bnqLsf6=pg",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Baka",
-                "**** :)"
+                "Les chromosomes ont été découverts grâce aux travaux de Morgan.",
+                "<b>FAUX</b>&nbsp;--&gt; Ils ont été découverts par W. Flemming lors d’étude de la mitose chez un ver (1879)."
             ],
             "flags": 0,
-            "guid": "xu2Tu(*C|X",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "yri1~<PWic",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cow moo",
-                "meeeeuh"
+                "J.H. Tijo a réalisé le premier caryotype et fait le compte exact des chromosomes humains.<br>",
+                "<div><b>VRAI</b>&nbsp;--&gt; Tijo a compté 46 chromosomes (1956)</div>"
             ],
             "flags": 0,
-            "guid": "O_f1HBVwP1",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "y<oIgx,@M~",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Vie de",
-                "carabin"
+                "La trisomie 21 est la première maladie chromosomique découverte.<br>",
+                "<div><b>VRAI</b>&nbsp;--&gt; Par J. Lejeune en 1959</div>"
             ],
             "flags": 0,
-            "guid": "o0}^LNhf[w",
-            "note_model_uuid": "afaf34f2-ad39-11e9-888d-60571823d010",
+            "guid": "xyX[q$41b-",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Les lois de Mendel ont été tout de suite confirmées par de Vries.<br>",
+                "<div><b>FAUX</b>&nbsp;--&gt; Il a fallu attendre 1900 pour que les travaux de Mendel (1866) soient reconnus.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "u}/HIK.xtX",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Les anomalies chromosomiques et remaniements génomiques cryptiques sont des macrolésions.<br>",
+                "<div><b>VRAI</b>&nbsp;--&gt; A l’inverse des maladies monogéniques qui sont des microlésions.</div>"
+            ],
+            "flags": 0,
+            "guid": "L24&3-er?T",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Le séquençage à haut débit est utilisé en routine médicale.<br>",
+                "<b>VRAI</b>"
+            ],
+            "flags": 0,
+            "guid": "K@4Sm_]&fh",
+            "note_model_uuid": "9e7756fb-d6e9-11e9-9328-acb57de93259",
             "tags": []
         }
     ]
